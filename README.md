@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your Int
 1. SoftwareAG Integration Server.
 2. SoftwareAG Designer.
 
-### Importing the project to IS 
+### Importing the package to IS 
 1. Download the zip file.
 2. Open your SoftwareAg folder and then go to `IntegrationServer\instances\default\replicate\inbound`.
 3. Paste your zip file there.
