@@ -28,7 +28,7 @@ These instructions will get you a copy of the project up and running on your Int
 2. Open your SoftwareAG Designer and connect to the server. To connect right click on 'Default Package' and click on <b> Connect to the Server </b> option .<br/>
 ![jj](https://user-images.githubusercontent.com/60179170/81392609-898ce900-913c-11ea-82fa-126452b990b8.png)
 3. After you have successfully connected, double-click on 'Default Package' and select 'WxPGPUtils'.
-![jj](https://user-images.githubusercontent.com/60179170/81392929-0ddf6c00-913d-11ea-9d7d-25a8f8809d27.png)
+![Annotation 2020-05-11 114842](https://user-images.githubusercontent.com/60179170/81529698-00182980-937d-11ea-8787-d748af6881a9.png)
 4. Open any one of the four Java Services.
 5. Right-click on the code part, goto <b>Run as</b> then click on <b>Run Service</b> and click OK.
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81395848-f9ea3900-9141-11ea-9546-bf8a91a3caa4.png)
