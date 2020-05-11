@@ -50,13 +50,21 @@ These instructions will get you a copy of the project up and running on your Int
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81394495-a0810a80-913f-11ea-8432-fca2bd05e724.png)
 
 ## About the services
-<b> Encrypt </b><br/>
- Input<br/>
-1. Public Key.<br/>
-2. Input String. <br/>
- Output<br/>
-1. Encrypted String. <br/>
-![Annotation 2020-05-11 114842](https://user-images.githubusercontent.com/60179170/81530662-eed01c80-937e-11ea-816b-24fa5581cc80.png)
+<b>1. Encrypt </b><br/>
+<i> Input </i><br/>
+1. Public Key, Datatype: String.<br/>
+2. Input String, Datatype: String. <br/>
+<i> Output </i><br/>
+1. Encrypted String, Datatype: String. <br/>
+![Annotation 2020-05-11 114842](https://user-images.githubusercontent.com/60179170/81530662-eed01c80-937e-11ea-816b-24fa5581cc80.png)<br/>
+<b>1. Decrypt </b><br/>
+<i> Input </i><br/>
+1. Private Key, Datatype: String.<br/>
+2. Encrypted String, Datatype: String. <br/>
+3. Password, Datatype: String. <br/>
+<i> Output </i><br/>
+1. Decrypted String, Datatype: String. <br/>
+![Annotation 2020-05-11 114842](https://user-images.githubusercontent.com/60179170/81530883-5dad7580-937f-11ea-9da9-65a7b963c0c0.png)<br/>
 ## Contributors
 [Anshuman Saikia](https://github.com/anshu96788)
 [Dipankar Dutta](https://github.com/DipankarDDUT) 
