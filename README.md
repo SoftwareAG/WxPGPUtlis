@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your Int
 2. SoftwareAG Designer.
 
 ### Importing the package to IS 
-1. Download the zip file.
+1. Download the zip file [WxPGPUtils.zip].
 2. Open your SoftwareAg folder and then go to `IntegrationServer\instances\default\replicate\inbound`.
 3. Paste your zip file there.
 ![Annotation 2020-05-08 141153](https://user-images.githubusercontent.com/60179170/81388167-82161180-9135-11ea-8e06-27c4f659ee8a.png)
