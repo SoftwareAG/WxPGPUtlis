@@ -51,18 +51,18 @@ These instructions will get you a copy of the project up and running on your Int
 
 ## About the services
 <b>1. Encrypt </b><br/>
-<i> Input </i><br/>
+<i><b><u> Input </i></b></u><br/>
 1. Public Key, Datatype: String.<br/>
 2. Input String, Datatype: String. <br/>
-<i> Output </i><br/>
+<i><u> <b>Output</u> </b></i><br/>
 1. Encrypted String, Datatype: String. <br/>
 ![Annotation 2020-05-11 114842](https://user-images.githubusercontent.com/60179170/81530662-eed01c80-937e-11ea-816b-24fa5581cc80.png)<br/>
-<b>1. Decrypt </b><br/>
-<i> Input </i><br/>
+<b>2. Decrypt </b><br/>
+<i> <u>Input</u> </i><br/>
 1. Private Key, Datatype: String.<br/>
 2. Encrypted String, Datatype: String. <br/>
 3. Password, Datatype: String. <br/>
-<i> Output </i><br/>
+<i> <u>Output</u> </i><br/>
 1. Decrypted String, Datatype: String. <br/>
 ![Annotation 2020-05-11 114842](https://user-images.githubusercontent.com/60179170/81530883-5dad7580-937f-11ea-9da9-65a7b963c0c0.png)<br/>
 ## Contributors
