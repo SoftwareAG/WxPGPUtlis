@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your Int
 1. SoftwareAG Integration Server.
 2. SoftwareAG Designer.
 
-### Importing the project to IS
+### Importing the project to IS 
 1. Download the zip file.
 2. Open your SoftwareAg folder and then go to `IntegrationServer\instances\default\replicate\inbound`.
 3. Paste your zip file there.
@@ -32,7 +32,7 @@ These instructions will get you a copy of the project up and running on your Int
 4. Open any one of the four Java Services.
 5. Right-click on the code part, goto <b>Run as</b> then click on <b>Run Service</b> and click OK.
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81395848-f9ea3900-9141-11ea-9546-bf8a91a3caa4.png)
-6. Provide the input then click on OK. A demo publick key, private key and password will be provided here. You can use these for testing or, generate a new key pair by visiting [https://pgpkeygen.com/](https://pgpkeygen.com/).
+6. Provide the input then click on OK. A demo publick key, private key and password is provided here. You can use these for testing or, generate a new key pair by visiting [https://pgpkeygen.com/](https://pgpkeygen.com/).
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81396151-7c72f880-9142-11ea-913f-c49f2397f57a.png)
 7. Your output along with input will be displayed as below.
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81396267-b512d200-9142-11ea-8a0b-ba5c572376ad.png)
@@ -49,6 +49,14 @@ These instructions will get you a copy of the project up and running on your Int
 4. And then click on 'Apply and Close'. This will fix the error.<br />
 ![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81394495-a0810a80-913f-11ea-8432-fca2bd05e724.png)
 
+## About the services
+<b> Encrypt </b><br/>
+<i> Input</i><br/>
+1. Public Key.<br/>
+2. Input String. <br/>
+<i> Output</i><br/>
+1. Encrypted String. <br/>
+![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81396267-b512d200-9142-11ea-8a0b-ba5c572376ad.png)
 ## Contributors
 [Anshuman Saikia](https://github.com/anshu96788)
 [Dipankar Dutta](https://github.com/DipankarDDUT) 
