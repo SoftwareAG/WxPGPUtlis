@@ -51,12 +51,12 @@ These instructions will get you a copy of the project up and running on your Int
 
 ## About the services
 <b> Encrypt </b><br/>
-<i> Input</i><br/>
+ Input<br/>
 1. Public Key.<br/>
 2. Input String. <br/>
-<i> Output</i><br/>
+ Output<br/>
 1. Encrypted String. <br/>
-![Annotation 2020-05-08 151901](https://user-images.githubusercontent.com/60179170/81396267-b512d200-9142-11ea-8a0b-ba5c572376ad.png)
+![Annotation 2020-05-11 114842](https://user-images.githubusercontent.com/60179170/81530662-eed01c80-937e-11ea-816b-24fa5581cc80.png)
 ## Contributors
 [Anshuman Saikia](https://github.com/anshu96788)
 [Dipankar Dutta](https://github.com/DipankarDDUT) 
